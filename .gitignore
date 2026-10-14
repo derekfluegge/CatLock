@@ -1,0 +1,3 @@
+# Build output - CatLock.exe goes in a GitHub Release, not the repo
+*.exe
+*.pdb
