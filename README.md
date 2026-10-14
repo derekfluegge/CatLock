@@ -89,3 +89,7 @@ To change the lock combo, edit `ComboKey` and `ComboText` at the top of [`CatLoc
 | `CatWalker.cs` | The cat: behavior and all the drawing |
 | `MakeIcon.cs` | Generates `cat.ico` for the exe (run by `build.cmd`) |
 | `build.cmd` | Builds everything with the built-in C# compiler |
+
+## License
+
+[MIT](LICENSE). Free to use, modify and share.
